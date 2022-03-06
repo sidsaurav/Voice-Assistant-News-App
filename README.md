@@ -8,12 +8,12 @@
 
 ### Project live at - [https://say-news.herokuapp.com/](https://say-news.herokuapp.com/)
 
-### About -
+### About:
 
 - Fetch news based on categories, terms or sources. Used Alan AI to implement the voice command capabilities and
 News API to fetch the news data. Used React JS and Material UI framework for building the frontend of the app.
 
-### Screenshots
+### Screenshots:
 
 ![demo1](https://user-images.githubusercontent.com/58874663/156936379-570f6667-ce3e-4be4-9e4e-92dcd0223dd8.png)
 
