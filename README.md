@@ -4,7 +4,7 @@
 
 # Description:
 
-### This is an excel clone built using HTML, CSS, JQuery.
+### This is a voice controlled news app.
 
 ### Project live at - [https://say-news.herokuapp.com/](https://say-news.herokuapp.com/)
 
